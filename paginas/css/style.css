@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.listas{
+    list-style-type: none;
+    color: white;
+ 
+}
+.encabezado{
+   background-color: #2a4835;
+
+}
+.encabezado img{
+    background-color: inherit ;
+    background-blend-mode: multiply 2a4835;
+}
+body{
+    background-color: #fff;
+
+}
+#main__index-page1 a {
+   text-decoration: none;
+   color: black;
+}
+body header nav a {
+    text-decoration: none;
+}
+footer ul a {
+    text-decoration: none;
+}
+ body header nav ul a {
+    color: white;
+ }
+ h2{
+    font-family:'Playfair Display', serif;
+    font-weight: 500;
+    font-size: x-large;
+ }
+ 
+ 
+ h3{
+    font-family:'Playfair Display', serif;
+    font-weight: 500;
+    font-size: larger;
+
+ }
+li  {
+    display: inline-block;
+}
+#main__index-page1 img{
+    display: inline-block;
+}
+
+
+.box a{
+    padding: 10px;
+    border: solid black 2px;
+    margin: 10px;
+}
+
+ font-family: 'Playfair Display', serif;
+font-family: 'Rosarivo', serif;
+footer ul li a {
+   list-style-type: none;
+  
+}
+ul li a{
+    color: black;
+}
+p{
+    display: inline-block;
+}
+#main__index-page1 p{
+    font-family: 'Playfair Display', serif;
+}
+section a {
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-family:'Playfair Display', serif;
+    font-weight: 500;
+    text-align: center;
+    font-size: xx-large;
+}
+#nuestros-page2 a {
+    text-decoration: none;
+    color: black;
+}
+#nuestros-page2 p{
+    font-family: 'Playfair Display', serif;
+}
+
+.datah{
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: x-large;
+}
+section header p{
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+.info{
+    display: inline-block;
+}
+
+
+.inline h1{
+    display: inline-block;
+}
+.imageconteiner img{
+    display: inline-block;
+}
+.imageconteiner div{
+    display: inline-block;
+    font-family: 'Playfair Display', serif;
+}
+.listas2 a{
+    margin: 90px;
+}
+#carrito-page3 div{
+    font-family:'Playfair Display', serif;
+    font-weight: 500;
+    text-align: center;
+    font-size: larger;
+    padding: 10px;
+    border: solid black 2px;
+    margin: 10px;
+    background-color: rgb(219, 94, 94);
+}
+body main ol li {
+    display: block;
+}
+
