@@ -246,7 +246,11 @@ h2{
 }
 .mapa{
    float: right;
-   
+
+}
+.mapapag5{
+    text-align: left;
+    background-color: #85a48f;
 }
 .grids3{
 display: grid;
